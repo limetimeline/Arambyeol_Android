@@ -3,15 +3,35 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable-v24/dot.xml" value="0.1" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable-v24/hs_background.xml" value="0.1465" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.109" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable-v24/shape_circle_white.xml" value="0.124" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable-v24/shape_circle_yellow.xml" value="0.124" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.109" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.109" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.109" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.109" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable/idol_list_item.xml" value="0.1465" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable/now_page.xml" value="0.1465" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/activity_main.xml" value="0.176" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/fragment_dashboard.xml" value="0.4" />
-        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/fragment_home.xml" value="0.1322463768115942" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/fragment_home.xml" value="0.1" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/fragment_notifications.xml" value="0.1322463768115942" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/hs_background.xml" value="0.24947916666666667" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/idol_list_item.xml" value="0.1" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/page_aftertomorrow.xml" value="0.2015625" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/page_aftertomorrow_dinner.xml" value="0.1921875" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/page_aftertomorrow_lunch.xml" value="0.1921875" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/page_aftertomorrow_morning.xml" value="0.1921875" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/page_now.xml" value="0.18697916666666667" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/page_today_dinner.xml" value="0.12132725430597771" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/page_today_lunch.xml" value="0.2015625" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/page_today_morning.xml" value="0.2015625" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/page_tomorrow.xml" value="0.2015625" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/page_tomorrow_dinner.xml" value="0.13858695652173914" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/page_tomorrow_lunch.xml" value="0.13858695652173914" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/page_tomorrow_morning.xml" value="0.13858695652173914" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/menu/bottom_nav_menu.xml" value="0.264" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.109" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2125" />

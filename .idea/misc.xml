@@ -8,6 +8,7 @@
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.109" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable-v24/shape_circle_white.xml" value="0.124" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable-v24/shape_circle_yellow.xml" value="0.124" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable-v24/smooth_border.xml" value="0.1345" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable-v24/yellow_border.xml" value="0.136" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.109" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.109" />
@@ -16,11 +17,12 @@
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable/idol_list_item.xml" value="0.1465" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/drawable/now_page.xml" value="0.1465" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/activity_main.xml" value="0.176" />
-        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/fragment_dashboard.xml" value="0.4" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/fragment_dashboard.xml" value="0.264" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/fragment_home.xml" value="0.1" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/fragment_notifications.xml" value="0.1322463768115942" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/hs_background.xml" value="0.24947916666666667" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/idol_list_item.xml" value="0.1" />
+        <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/item_view.xml" value="0.17604166666666668" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/page_aftertomorrow.xml" value="0.2015625" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/page_aftertomorrow_dinner.xml" value="0.1921875" />
         <entry key="..\:/workspace/Arambyeol_Android/app/src/main/res/layout/page_aftertomorrow_lunch.xml" value="0.1921875" />
